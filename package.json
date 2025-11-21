@@ -1,0 +1,30 @@
+{
+  "name": "meong.id",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.1.0",
+    "@fastify/jwt": "^10.0.0",
+    "@prisma/client": "^7.0.0",
+    "bcrypt": "^6.0.0",
+    "fastify": "^5.6.2",
+    "mysql2": "^3.15.3",
+    "prisma": "^7.0.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^5.0.0"
+  },
+  "description": "Meong.id adalah aplikasi web berbasis Vue 3 yang didedikasikan untuk membangun komunitas dan menyediakan sumber daya bagi pecinta kucing di Indonesia. Misi kami adalah untuk memfasilitasi adopsi, membantu menemukan kucing hilang, menyediakan informasi tepercaya, dan menghubungkan shelter dengan para donatur.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
