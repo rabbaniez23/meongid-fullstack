@@ -1,0 +1,21 @@
+{
+  "name": "meong-id-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/cors": "^11.1.0",
+    "@fastify/jwt": "^10.0.0",
+    "@prisma/client": "5.19.0",
+    "bcrypt": "^6.0.0",
+    "fastify": "^5.6.2",
+    "mysql2": "^3.15.3",
+    "prisma": "5.19.0"
+  }
+}
